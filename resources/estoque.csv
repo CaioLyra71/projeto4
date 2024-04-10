@@ -1,0 +1,51 @@
+idProduto;nome;quantidade;categoria;preco
+1;Smartphone;50;eletrônicos;1000.00
+2;Notebook;2;eletrônicos;2000.00
+3;Mouse;100;periféricos;50.00
+4;Teclado;80;periféricos;70.00
+5;Headset;50;periféricos;150.00
+6;Monitor;20;eletrônicos;500.00
+7;Caneta;200;papelaria;2.00
+8;Caderno;100;papelaria;10.00
+9;Lápis;150;papelaria;1.00
+10;Mochila;50;outros;50.00
+11;Impressora;25;periféricos;300.00
+12;Fone de Ouvido Bluetooth;40;eletrônicos;80.00
+13;Caixa de Som Portátil;60;eletrônicos;120.00
+14;Roteador Wi-Fi;35;eletrônicos;80.00
+15;HD Externo;45;eletrônicos;150.00
+16;Power Bank;70;eletrônicos;30.00
+17;Mousepad;90;periféricos;10.00
+18;Estojo;80;papelaria;5.00
+19;Caneca;120;cozinha;15.00
+20;Faca de Cozinha;40;cozinha;25.00
+21;Panela de Pressão;30;cozinha;70.00
+22;Escova de Dentes;100;higiene pessoal;3.00
+23;Shampoo;80;higiene pessoal;12.00
+24;Sabonete;150;higiene pessoal;2.50
+25;Creme Dental;200;higiene pessoal;2.00
+26;Toalha de Banho;60;banho;20.00
+27;Toalha de Rosto;100;banho;10.00
+28;Lâmpada LED;120;iluminação;8.00
+29;Abajur;50;iluminação;40.00
+30;Varal de Roupas;40;utilidades domésticas;30.00
+31;Escova de Cabelo;90;beleza;5.00
+32;Chapinha de Cabelo;30;beleza;60.00
+33;Secador de Cabelo;25;beleza;80.00
+34;Perfume;70;beleza;100.00
+35;Livro;150;lazer;20.00
+36;Baralho;80;lazer;5.00
+37;Bola de Futebol;40;esportes;30.00
+38;Shorts Esportivo;50;esportes;20.00
+39;Tênis;30;esportes;100.00
+40;Meias Esportivas;100;esportes;5.00
+41;Luvas de Academia;60;esportes;15.00
+42;Bicicleta;20;esportes;300.00
+43;Óculos de Sol;45;acessórios;50.00
+44;Colar;80;acessórios;30.00
+45;Bolsa;40;acessórios;70.00
+46;Carteira;60;acessórios;20.00
+47;Relógio de Pulso;25;acessórios;100.00
+48;Guarda-chuva;70;acessórios;15.00
+49;Carregador Portátil;50;acessórios;25.00
+50;Fone de Ouvido com Fio;65;acessórios;20.00
